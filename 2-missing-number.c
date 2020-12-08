@@ -22,9 +22,4 @@ int main () {
     printf("%li", temp + num);
     free(nl);
     return 0;
-
-    for (int i = 1; i < num + 1; i++) {
-
-    }
-    return 0;
 }
